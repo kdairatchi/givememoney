@@ -1,0 +1,8 @@
+openai
+fpdf
+sqlite3
+requests
+tkinter
+json
+csv
+schedule
